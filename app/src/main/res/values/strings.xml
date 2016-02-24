@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">10년...그리고 결혼.</string>
+    <string name="large_text">
+        "
+        저희 두사람이
+        가난한 연인으로 같이한 시간이
+        벌써 10년을 넘어섰습니다.
+
+        이젠 둘이 만나서 할 것도 없고...
+        그러다 보니 결혼을 결심했습니다.
+        (후회할 지도 모르지만...)
+
+        준비한 것이 소박하지만
+        참석해주시기 바랍니다.
+
+        XX년 X월 X일 X시 입니다.
+
+        [>] 버튼을 누르시면
+        결혼식 장소를 알 수 있습니다.
+
+        "
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
